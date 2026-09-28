@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="java.lang.Class">
+		<item key="replaceBarOpen" value="false"/>
+		<list key="findhistory">
+			<item value="direction"/>
+			<item value="MX_TIM10_Init();"/>
+			<item value="HAL_TIM_PWM_Start(&amp;htim10, TIM_CHANNEL_1)"/>
+			<item value="current_pulse"/>
+			<item value="UARTDATA"/>
+			<item value="uartdata["/>
+			<item value="set_step"/>
+			<item value="current_ste"/>
+			<item value="current_step"/>
+			<item value="inter"/>
+			<item value="inter§"/>
+		</list>
+	</section>
+</section>
