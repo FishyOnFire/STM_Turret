@@ -1,2 +1,3 @@
 # STM_Turret
-En sammling av mina egna småprojekt 
+A two axis person tracking turret
+Built using STM32CubeIDE 2.2.0, STM32CubeMX and python 3.10
